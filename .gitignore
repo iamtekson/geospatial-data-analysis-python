@@ -1,4 +1,4 @@
 output/
-notebooks/
 html/
-image/
+
+.ipynb_checkpoints/
